@@ -155,7 +155,7 @@ namespace DoceriaLima.Dialogs
         {
             var moedas = result.Entities?.Select(e => e.Entity);
             var filtro = string.Join(",", moedas.ToArray());
-            var endpoint = $"http://webapplication120180317115918.azurewebsites.net/api/Cotacoes/{filtro}";
+            var endpoint = $"http://api-cotacoes20180327043804.azurewebsites.net/api/Cotacoes/{filtro}";
             
 
             await context.PostAsync("Aguarde um momento enquanto eu obtenho os valores...");

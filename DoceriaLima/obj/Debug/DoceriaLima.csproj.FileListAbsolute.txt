@@ -16,11 +16,15 @@ C:\Users\victo\source\repos\DoceriaLima\DoceriaLima\bin\Microsoft.Rest.ClientRun
 C:\Users\victo\source\repos\DoceriaLima\DoceriaLima\bin\Microsoft.WindowsAzure.Configuration.dll
 C:\Users\victo\source\repos\DoceriaLima\DoceriaLima\bin\Newtonsoft.Json.dll
 C:\Users\victo\source\repos\DoceriaLima\DoceriaLima\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\victo\source\repos\DoceriaLima\DoceriaLima\bin\System.Net.Http.Extensions.dll
 C:\Users\victo\source\repos\DoceriaLima\DoceriaLima\bin\System.Net.Http.Formatting.dll
+C:\Users\victo\source\repos\DoceriaLima\DoceriaLima\bin\System.Net.Http.Primitives.dll
 C:\Users\victo\source\repos\DoceriaLima\DoceriaLima\bin\System.Web.Http.dll
 C:\Users\victo\source\repos\DoceriaLima\DoceriaLima\bin\System.Web.Http.WebHost.dll
 C:\Users\victo\source\repos\DoceriaLima\DoceriaLima\bin\Autofac.xml
+C:\Users\victo\source\repos\DoceriaLima\DoceriaLima\bin\Microsoft.Bot.Builder.pdb
 C:\Users\victo\source\repos\DoceriaLima\DoceriaLima\bin\Microsoft.Bot.Builder.xml
+C:\Users\victo\source\repos\DoceriaLima\DoceriaLima\bin\Microsoft.Bot.Builder.Autofac.pdb
 C:\Users\victo\source\repos\DoceriaLima\DoceriaLima\bin\Microsoft.Bot.Builder.Autofac.xml
 C:\Users\victo\source\repos\DoceriaLima\DoceriaLima\bin\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.xml
 C:\Users\victo\source\repos\DoceriaLima\DoceriaLima\bin\Microsoft.Bot.Connector.xml
@@ -29,10 +33,13 @@ C:\Users\victo\source\repos\DoceriaLima\DoceriaLima\bin\Microsoft.IdentityModel.
 C:\Users\victo\source\repos\DoceriaLima\DoceriaLima\bin\Microsoft.IdentityModel.Protocols.xml
 C:\Users\victo\source\repos\DoceriaLima\DoceriaLima\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
 C:\Users\victo\source\repos\DoceriaLima\DoceriaLima\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\victo\source\repos\DoceriaLima\DoceriaLima\bin\Microsoft.Rest.ClientRuntime.xml
 C:\Users\victo\source\repos\DoceriaLima\DoceriaLima\bin\Microsoft.WindowsAzure.Configuration.xml
 C:\Users\victo\source\repos\DoceriaLima\DoceriaLima\bin\Newtonsoft.Json.xml
 C:\Users\victo\source\repos\DoceriaLima\DoceriaLima\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\victo\source\repos\DoceriaLima\DoceriaLima\bin\System.Net.Http.Extensions.xml
 C:\Users\victo\source\repos\DoceriaLima\DoceriaLima\bin\System.Net.Http.Formatting.xml
+C:\Users\victo\source\repos\DoceriaLima\DoceriaLima\bin\System.Net.Http.Primitives.xml
 C:\Users\victo\source\repos\DoceriaLima\DoceriaLima\bin\System.Web.Http.xml
 C:\Users\victo\source\repos\DoceriaLima\DoceriaLima\bin\System.Web.Http.WebHost.xml
 C:\Users\victo\source\repos\DoceriaLima\DoceriaLima\bin\ar\Microsoft.Bot.Builder.resources.dll
@@ -57,13 +64,8 @@ C:\Users\victo\source\repos\DoceriaLima\DoceriaLima\bin\fa\Microsoft.Bot.Builder
 C:\Users\victo\source\repos\DoceriaLima\DoceriaLima\bin\fr\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
 C:\Users\victo\source\repos\DoceriaLima\DoceriaLima\bin\ja\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
 C:\Users\victo\source\repos\DoceriaLima\DoceriaLima\bin\zh-hans\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\victo\source\repos\DoceriaLima\DoceriaLima\obj\Debug\DoceriaLima.csproj.App.config
 C:\Users\victo\source\repos\DoceriaLima\DoceriaLima\obj\Debug\DoceriaLima.csproj.CoreCompileInputs.cache
 C:\Users\victo\source\repos\DoceriaLima\DoceriaLima\obj\Debug\Bot Application.dll
 C:\Users\victo\source\repos\DoceriaLima\DoceriaLima\obj\Debug\Bot Application.pdb
-C:\Users\victo\source\repos\DoceriaLima\DoceriaLima\bin\System.Net.Http.Extensions.dll
-C:\Users\victo\source\repos\DoceriaLima\DoceriaLima\bin\System.Net.Http.Primitives.dll
-C:\Users\victo\source\repos\DoceriaLima\DoceriaLima\bin\System.Net.Http.Extensions.xml
-C:\Users\victo\source\repos\DoceriaLima\DoceriaLima\bin\System.Net.Http.Primitives.xml
-C:\Users\victo\source\repos\DoceriaLima\DoceriaLima\obj\Debug\DoceriaLima.csproj.App.config
-C:\Users\victo\source\repos\DoceriaLima\DoceriaLima\bin\Microsoft.Rest.ClientRuntime.xml
 C:\Users\victo\source\repos\DoceriaLima\DoceriaLima\obj\Debug\DoceriaLima.csprojResolveAssemblyReference.cache

@@ -67,3 +67,5 @@ C:\Users\victo\source\repos\DoceriaLima\DoceriaLima\obj\Release\Bot Application.
 C:\Users\victo\source\repos\DoceriaLima\DoceriaLima\obj\Release\Bot Application.pdb
 C:\Users\victo\source\repos\DoceriaLima\DoceriaLima\obj\Release\DoceriaLima.csprojResolveAssemblyReference.cache
 C:\Users\victo\source\repos\DoceriaLima\DoceriaLima\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\victo\source\repos\DoceriaLima\DoceriaLima\bin\Microsoft.Bot.Builder.pdb
+C:\Users\victo\source\repos\DoceriaLima\DoceriaLima\bin\Microsoft.Bot.Builder.Autofac.pdb

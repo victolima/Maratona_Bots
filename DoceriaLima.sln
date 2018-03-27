@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27130.2020
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoceriaLima", "DoceriaLima\DoceriaLima.csproj", "{27305165-CFB3-4582-9ACB-B2FBD1F7927A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{A68F929D-71F1-4861-AA70-27386E31CAB2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_Cotacoes", "API-Cotacoes\API_Cotacoes.csproj", "{ED6BB71C-6FF8-4F60-A3CC-E192C9F95D79}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{27305165-CFB3-4582-9ACB-B2FBD1F7927A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27305165-CFB3-4582-9ACB-B2FBD1F7927A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27305165-CFB3-4582-9ACB-B2FBD1F7927A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A68F929D-71F1-4861-AA70-27386E31CAB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A68F929D-71F1-4861-AA70-27386E31CAB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A68F929D-71F1-4861-AA70-27386E31CAB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A68F929D-71F1-4861-AA70-27386E31CAB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED6BB71C-6FF8-4F60-A3CC-E192C9F95D79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED6BB71C-6FF8-4F60-A3CC-E192C9F95D79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED6BB71C-6FF8-4F60-A3CC-E192C9F95D79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED6BB71C-6FF8-4F60-A3CC-E192C9F95D79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

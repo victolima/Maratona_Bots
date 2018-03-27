@@ -1,0 +1,11 @@
+C:\Users\victo\source\repos\DoceriaLima\API-Cotacoes\bin\Debug\netcoreapp2.0\API-Cotacoes.deps.json
+C:\Users\victo\source\repos\DoceriaLima\API-Cotacoes\bin\Debug\netcoreapp2.0\API-Cotacoes.runtimeconfig.json
+C:\Users\victo\source\repos\DoceriaLima\API-Cotacoes\bin\Debug\netcoreapp2.0\API-Cotacoes.runtimeconfig.dev.json
+C:\Users\victo\source\repos\DoceriaLima\API-Cotacoes\bin\Debug\netcoreapp2.0\API-Cotacoes.dll
+C:\Users\victo\source\repos\DoceriaLima\API-Cotacoes\bin\Debug\netcoreapp2.0\API-Cotacoes.pdb
+C:\Users\victo\source\repos\DoceriaLima\API-Cotacoes\obj\Debug\netcoreapp2.0\API-Cotacoes.csprojResolveAssemblyReference.cache
+C:\Users\victo\source\repos\DoceriaLima\API-Cotacoes\obj\Debug\netcoreapp2.0\API-Cotacoes.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\DoceriaLima\API-Cotacoes\obj\Debug\netcoreapp2.0\API-Cotacoes.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\DoceriaLima\API-Cotacoes\obj\Debug\netcoreapp2.0\API-Cotacoes.AssemblyInfo.cs
+C:\Users\victo\source\repos\DoceriaLima\API-Cotacoes\obj\Debug\netcoreapp2.0\API-Cotacoes.dll
+C:\Users\victo\source\repos\DoceriaLima\API-Cotacoes\obj\Debug\netcoreapp2.0\API-Cotacoes.pdb
