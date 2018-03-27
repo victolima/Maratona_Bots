@@ -1,0 +1,11 @@
+C:\Users\rafaela\source\repos\LivrariaBrugnars\API-Precos\bin\Any CPU\Release\netcoreapp2.0\API-Precos.deps.json
+C:\Users\rafaela\source\repos\LivrariaBrugnars\API-Precos\bin\Any CPU\Release\netcoreapp2.0\API-Precos.runtimeconfig.json
+C:\Users\rafaela\source\repos\LivrariaBrugnars\API-Precos\bin\Any CPU\Release\netcoreapp2.0\API-Precos.runtimeconfig.dev.json
+C:\Users\rafaela\source\repos\LivrariaBrugnars\API-Precos\bin\Any CPU\Release\netcoreapp2.0\API-Precos.dll
+C:\Users\rafaela\source\repos\LivrariaBrugnars\API-Precos\bin\Any CPU\Release\netcoreapp2.0\API-Precos.pdb
+C:\Users\rafaela\source\repos\LivrariaBrugnars\API-Precos\obj\Any CPU\Release\netcoreapp2.0\API-Precos.csprojResolveAssemblyReference.cache
+C:\Users\rafaela\source\repos\LivrariaBrugnars\API-Precos\obj\Any CPU\Release\netcoreapp2.0\API-Precos.csproj.CoreCompileInputs.cache
+C:\Users\rafaela\source\repos\LivrariaBrugnars\API-Precos\obj\Any CPU\Release\netcoreapp2.0\API-Precos.AssemblyInfoInputs.cache
+C:\Users\rafaela\source\repos\LivrariaBrugnars\API-Precos\obj\Any CPU\Release\netcoreapp2.0\API-Precos.AssemblyInfo.cs
+C:\Users\rafaela\source\repos\LivrariaBrugnars\API-Precos\obj\Any CPU\Release\netcoreapp2.0\API-Precos.dll
+C:\Users\rafaela\source\repos\LivrariaBrugnars\API-Precos\obj\Any CPU\Release\netcoreapp2.0\API-Precos.pdb
